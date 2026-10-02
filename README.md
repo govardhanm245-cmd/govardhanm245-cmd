@@ -1,7 +1,7 @@
 P<p align="center">
   <img src="./github-banner.png" width="100%">
 </p>
-# 👋 Hey, I'm Govardhan Myle
+# 👋 About Me
 
 ### 🚀 B.Tech CSE Student | Building Projects | Exploring AI & Software Development
 
